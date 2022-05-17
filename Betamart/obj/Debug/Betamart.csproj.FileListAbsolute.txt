@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\Betamart\Betamart\bin\Debug\Betamart.exe.config
+C:\Users\ACER\source\repos\Betamart\Betamart\bin\Debug\Betamart.exe
+C:\Users\ACER\source\repos\Betamart\Betamart\bin\Debug\Betamart.pdb
+C:\Users\ACER\source\repos\Betamart\Betamart\obj\Debug\Betamart.Form1.resources
+C:\Users\ACER\source\repos\Betamart\Betamart\obj\Debug\Betamart.Properties.Resources.resources
+C:\Users\ACER\source\repos\Betamart\Betamart\obj\Debug\Betamart.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Betamart\Betamart\obj\Debug\Betamart.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Betamart\Betamart\obj\Debug\Betamart.exe
+C:\Users\ACER\source\repos\Betamart\Betamart\obj\Debug\Betamart.pdb
+C:\Users\ACER\source\repos\Betamart\Betamart\obj\Debug\Betamart.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Betamart\Betamart\bin\Debug\Betamart.accdb
